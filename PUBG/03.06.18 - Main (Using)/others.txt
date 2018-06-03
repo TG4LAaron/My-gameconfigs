@@ -1,3 +1,11 @@
 DPI  - 3600
 Razer/windows - 16 - 12 windows
 Good EQ settings - 10 - 10 - 11 - 11 - 10 - 11 - 11 - 11
+
+Nvidia 
+
+Brightness - 70%
+Contrast - 57%
+Gamma - 1.00
+Digtal vibrance - 100%
+Hue - 0
