@@ -9,3 +9,6 @@ Contrast - 57%
 Gamma - 1.00
 Digtal vibrance - 100%
 Hue - 0
+
+Launch options
+-KoreanRating
