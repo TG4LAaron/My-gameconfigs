@@ -1,5 +1,6 @@
-#### Last updated: 18.05.19
+#### Last updated: 23.06.20
 #### Will add links soon
+## MAIN DPI - 3400
 ## PC SPECS
 
   - Case
