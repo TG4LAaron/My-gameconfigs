@@ -1,4 +1,4 @@
-#### Last updated: 23.06.20
+#### Last updated: 24.05.22
 #### Will add links soon
 ## MAIN DPI - 3400
 ## PC SPECS
