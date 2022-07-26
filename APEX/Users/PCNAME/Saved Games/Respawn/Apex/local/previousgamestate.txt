@@ -1,8 +1,8 @@
 "GameState"
 {
-	"state.buildString"		"R5pc_r5-131_J41_CL2905843_2022_07_15_15_30"
-	"state.totalMapsFullyConnectedTo"		"4"
-	"state.lastTimeStampInMinutes"		"16"
-	"state.wasGameRunning"		"1"
-	"state.lastMapFullyConnectedTo"		"mp_lobby"
+	"state.buildString"		"R5pc_r5-131_J44_CL2919722_2022_07_19_09_49"
+	"state.totalMapsFullyConnectedTo"		"25"
+	"state.lastTimeStampInMinutes"		"212"
+	"state.wasGameRunning"		"0"
+	"state.lastMapFullyConnectedTo"		"no_map"
 }
