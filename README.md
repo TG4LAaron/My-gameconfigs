@@ -1,6 +1,7 @@
-#### Last updated: 24.05.22
+#### Last updated: 24.06.26
+#### Prev updated: 24.05.22
 #### Will add links soon
-## MAIN DPI - 3400
+## MAIN DPI - 3500
 ## PC SPECS
 
   - Case
@@ -13,23 +14,23 @@
   - GPU
       - Asus Republic of Gamers Strix GTX 1080TI 11GB 
   - RAM
-      - G.SKILL DDR4 3200 Mhz 16GB CL14
+      - Corsair Vengeance DDR4 3400 Mhz 64GB
   - PSU
       - EVGA SUPERNOVA 1200 P2
-      
+
 ## GEAR
 
   - Monitor
       - BenQ ZOWIE XL2730 27 inch (Main one for gaming) 144hz 1ms
-      - Acer (Not sure will need to check)
+      - AOC
   - Mouse
-      - Logitech G403 
+      - Logitech G305 
   - Keyboard
-       - CORSAIR STRAFE RGB MK.2 Mechanical Gaming Keyboard - Red Switches 
+       - Wooting Two HE
   - Headset
-      - Razer kraken 7.1 Chroma 
+      - Beyerdynamic DT 990 Pro
   - Mouse Mat
-      - AFX Gaming 
+      - Wallhack CR-005 Glass Gaming Mouse Pad, 20x17.3
   - Web Cam
       - Logitech C920 HD
   - Tripod
